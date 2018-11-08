@@ -60,20 +60,35 @@ table {
 #resetButton{
     color:maroon;
     padding: 5px;
-    background-color:rgb(221, 211, 211);
     border:1px solid;
     display:inherit;
     justify-content: center; 
     transition: 0.3s;
     border-radius:15px;
-    border:dotted;
     background-color:gray;
     margin-top: 15px;
+    color: rgb(93, 34, 34,0.5);
+    background-color:gray;
+    border:dotted;
+    
 }
 #resetButton:hover {
         background-color:#4b1616;;
         color: white;
+        
 }
+
+.btn:hover {
+    background-color: #4b1616;
+    color: white;
+}
+    .btn{
+        color: rgb(93, 34, 34,0.5);
+        background-color:gray;
+        border:dotted;
+    
+}
+
    
 
 

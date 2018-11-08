@@ -1,4 +1,35 @@
+body{
+   text-align: center;
+   background-color: rgb(161, 156, 156,0.5);
+     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 45px;
+
+}
+
+
 #billAmount{
 
-    background-color:gray;
+    background-color:rgb(218, 199, 199);
 }
+
+#amountPeople{
+    background-color:rgb(218, 199, 199);
+}
+#calculate{
+color: rgb(93, 34, 34,0.5);
+background-color:gray;
+border:dotted;
+}
+
+#calculate:hover {
+        background-color: #4b1616;
+        color: white;
+}
+.btn{
+    color: rgb(93, 34, 34,0.5);
+   background-color:gray;
+   border:dotted;
+   }
+   .btn:hover {
+     background-color: #4b1616;
+     color: white;

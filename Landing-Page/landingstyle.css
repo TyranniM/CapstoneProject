@@ -1,0 +1,11 @@
+.btn:hover {
+    background-color: #4b1616;
+    color: white;
+}
+    .btn{
+        color: rgb(93, 34, 34,0.5);
+        background-color:gray;
+        border:dotted;
+        padding: 80px;
+    
+}
