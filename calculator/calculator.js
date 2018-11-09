@@ -33,6 +33,10 @@ $(document).ready(function () {
         $("#display").val($("#display").val() + "9");
         // console.log("hi")
     });
+    $("#numberButton0").click(function () {
+        $("#display").val($("#display").val() + "0");
+        // console.log("hi")
+    });
     
     $("#plusButton").click(function () {
         value1 = parseInt($("#display").val())
